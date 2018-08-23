@@ -1,5 +1,6 @@
 INSERT INTO `cinema`.`passe`
-(`numf`,
+(`nump`,
+`numf`,
 `numc`,
 `nums`,
 `date_deb`,
