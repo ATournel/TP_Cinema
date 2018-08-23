@@ -3,7 +3,7 @@ INSERT INTO `cinema`.`film`
 `titre`,
 `genre`,
 `annee`,
-`longeur`,
+`longueur`,
 `budget`,
 `realisateur`,
 `salaire_real`)
